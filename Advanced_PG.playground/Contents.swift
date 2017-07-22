@@ -122,4 +122,11 @@ for i in 0..<nums.count-1{
 }
 count
 
-10933063
+class mygril{
+    var mand:String?
+    init(mand:String) {
+        self.mand = mand
+    }
+}
+var yoyo = mygril(mand: 99)
+
